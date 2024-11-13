@@ -25,3 +25,4 @@ var labelColumn = "placeLabel";
 var labelLatitude = "lat";
 var labelLongitude = "long";
 var opacity = 1.0;
+//あああああああ
