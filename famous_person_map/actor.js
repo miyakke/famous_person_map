@@ -24,4 +24,4 @@ var clusterOptions = { showCoverageOnHover: false, maxClusterRadius: 50 };
 var labelColumn = "placeLabel";
 var labelLatitude = "lat";
 var labelLongitude = "long";
-var opacity = 1.0;
+var opacity = 1.0; //aaaaaa
